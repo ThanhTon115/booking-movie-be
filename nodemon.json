@@ -1,3 +1,6 @@
 {
-    "ext": "js json hbs"
+  "ext": "js ts json hbs",
+  "execMap": {
+    "ts": "ts-node"
+  }
 }

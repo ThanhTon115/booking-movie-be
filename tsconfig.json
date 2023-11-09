@@ -1,0 +1,14 @@
+{
+  "noImplicitAny": false,
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "importHelpers": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  },
+  "exclude": ["node_modules", "test"]
+}
